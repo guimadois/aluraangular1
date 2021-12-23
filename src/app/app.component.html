@@ -1,4 +1,6 @@
-<app-nova-transferencia (onTransferir)="transferir($event)"></app-nova-transferencia>
+<app-nova-transferencia
+  (onTransferir)="transferir($event)"
+></app-nova-transferencia>
 
-<p>Valor: {{transferencia?.valor}}</p>
-<p>Destino: {{transferencia?.destino}}</p>
+<app-extrato [transferencias]="transferencias"></app-extrato>
+
