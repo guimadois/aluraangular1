@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Como navegar no projeto:
 
-A branch main contém o projeto finalizado.
+A branch main contém o projeto finalizado. As demais branchs são o registro da evolução do projeto e o histórico de commits conta a história do projeto.
 
 ## Development server
 
